@@ -1,24 +1,41 @@
-# README
+![](https://img.shields.io/badge/-RubyOnRails-green)
+![](https://img.shields.io/badge/-Bootstrap-blue)
+![](https://img.shields.io/badge/-Beginner-orange)
+<div id="top"></div>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<!-- PROJECT LOGO -->
+<br />
+<div align="start">
+  <h3 align="start">Friends List</h3>
 
-* Ruby version
+  <p align="start">
+    A simple web app built with Ruby on Rails.
+  </p>
+</div>
 
-* System dependencies
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p>
+<img src="ss1.png" alt="screenshot 0" width="800">
+<img src="ss2.png" alt="screenshot 1" width="800">
+<img src="ss3.png" alt="screenshot 2" width="800">
+</p>
 
-* Configuration
+<p>
+  This is a my first ever project with Ruby on Rails. It's a simple web app with CRUD functionalities.
+</p>
 
-* Database creation
+                                                                               
+### Built With
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Bootstrap](https://getbootstrap.com/)
+* [RubyOnRails](https://rubyonrails.org/)
 
-* Database initialization
 
-* How to run the test suite
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+<p>
+Thanks to the YouTube channel <a href="https://www.youtube.com/c/Codemycoms">Codemy.com<a/a> for the tutorials.
+</p>
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
